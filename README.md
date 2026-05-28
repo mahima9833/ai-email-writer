@@ -1,20 +1,18 @@
-📧 AI Email Writer (Groq + FastAPI)
+Project NAme - AI Email Writer (Groq + FastAPI)
 
 An AI-powered email generator web app built using Python, FastAPI, and Groq LLM (Llama 3).
 It generates professional emails instantly based on user input and tone selection.
 
 🚀 Live Features
-✍️ Generate professional emails from simple prompts
-🎯 Select tone: Formal / Friendly / Professional
-⚡ Fast responses using Groq LLM API
-🌐 Simple web UI (HTML + FastAPI backend)
-🧠 Powered by Llama 3 model
+1 Generate professional emails from simple prompts
+2 Select tone: Formal / Friendly / Professional
+3 Fast responses using Groq LLM API
+4 Simple web UI (HTML + FastAPI backend) and Powered by Llama 3 model
 🛠️ Tech Stack
-Python 🐍
-FastAPI ⚡
-Groq API 🤖
-HTML/CSS 🌐
-dotenv 🔐
+Python.
+FastAPI,
+Groq API, HTML/CSS 🌐
+dotenv
 📁 Project Structure
 ai-email-writer/
 │
@@ -24,8 +22,6 @@ ai-email-writer/
 ├── .gitignore
 └── venv/ (ignored)
 ⚙️ Installation & Setup
-1️⃣ Clone the repository
-git clone https://github.com/your-username/ai-email-writer.git
 cd ai-email-writer
 2️⃣ Create virtual environment
 python -m venv venv
